@@ -1,0 +1,1 @@
+{"stat":"cpu 1 2 3\nctxt 7 8\nintr","meminfo":"MemTotal: 2 kB\nMemFree:\nSwapTotal: 4 KiB\nMemTotal: 3 kB\n","loadavg":"0.5 1.25 0.3 2/100 999\n0.5 bad 0.3 1/2 3\n","diskstats":"8 0 sda 1 2 3 4 5 6 7 8 9 10 11\n8 1 磁盘 1 2 3\n","netdev":"Inter-| Receive | Transmit\n face |bytes |bytes\n    lo: 1 2\n eth0: 5 6 7\n"}
